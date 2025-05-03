@@ -35,8 +35,10 @@ npm install
 Inicie o servidor:
 ```bash
 node exemplo.json
+
 Se estiver usando JSON Server:
 ```bash
+npm install -g json-server
 json-server exemplo.json
 ou 
 json-server --watch exemplo.json --port 3000
