@@ -19,7 +19,7 @@ Um projeto simples para gerenciar contatos usando Node.js + JSON Server, com dad
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/Sara-source01/Contacts-API-Toti.git
 
 ## ▶️ Como rodar o projeto
 
