@@ -1,0 +1,47 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Sara",
+      "email": "sara.new@email.com",
+      "phone": "0501234567",
+      "age": 25
+    },
+    {
+      "id": "2",
+      "name": "Dima",
+      "gender": "female",
+      "email": "dima@email.com",
+      "phone": "0509876543",
+      "age": 30
+    },
+    {
+      "id": "3",
+      "name": "Alex",
+      "email": "alex@email.com",
+      "phone": "0502584136",
+      "age": 27
+    },
+    {
+      "id": "5",
+      "name": "George",
+      "email": "george@email.com",
+      "phone": "0504523698",
+      "age": 36
+    },
+    {
+      "id": "6",
+      "name": "Sami",
+      "email": "sami@email.com",
+      "phone": "0502563254",
+      "age": 36
+    },
+    {
+      "id": "7",
+      "name": "Lucas",
+      "email": "lucas@email.com",
+      "phone": "0505436121",
+      "age": 20
+    }
+  ]
+}
